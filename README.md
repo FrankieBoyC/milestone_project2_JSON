@@ -5,4 +5,3 @@ This is the JSON version of the second milestone project I worked on for my firs
 To use this is simple. It is a text-based user interphase to it can be run in any IDE, after the program runs go through the prompt and select the option you want.
 <h2 align="left">Built With</h2>
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
--JSON
